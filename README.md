@@ -1,3 +1,5 @@
 # Research-Papers
 
-Caontains all the research papers Harshita Gupta has been a part of in her Undergraduate Degree of Bechelors of Technology in Information Technology
+1. Embedded Systems:
+2. Software Engineering:
+3. Cyber Security:
